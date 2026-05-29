@@ -1,0 +1,6 @@
+{
+  "name": "Sochi VR Soloniki Beach",
+  "description": "Официальный сайт аттракциона виртуальной реальности SOCHI VR на пляже Солоники-1. Новейшие шлемы Quest 3, экстрим-симуляторы и скидки за подписку в Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
